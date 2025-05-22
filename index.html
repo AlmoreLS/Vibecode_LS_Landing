@@ -261,6 +261,16 @@
                 const legalText = '<small class="top-legal"><span>*New customers only. 18+ T&Cs apply.</span></small>';
                 $('#legal-bar').html(legalText);
                 $('#legal-bar-2').html(legalText);
+                
+                // Mida event tracking for CTA button clicks
+                $('a#cta-button').on('click', function() {
+                    // Track the "clicked join" event with Mida
+                    window.mdq = window.mdq || [];
+                    window.mdq.push(["track", "clicked join"]);
+                    
+                    // Optional: Log for debugging (remove in production)
+                    console.log('Mida event tracked: clicked join');
+                });
             });
         </script>
 
