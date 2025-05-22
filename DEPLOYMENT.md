@@ -4,7 +4,7 @@
 
 ## ✅ Repository Already Created and Connected
 
-**GitHub Repository:** https://github.com/almoretti/VibescoreBet_Landing
+**GitHub Repository:** https://github.com/AlmoreLS/Vibecode_LS_Landing
 
 Your code has been successfully pushed to GitHub! The repository is already set up and connected.
 
@@ -27,7 +27,7 @@ gh repo edit --enable-pages --pages-branch main --pages-path /
 
 After enabling GitHub Pages, your site will be available at:
 ```
-https://almoretti.github.io/VibescoreBet_Landing/
+https://almorels.github.io/Vibecode_LS_Landing/
 ```
 
 It may take a few minutes for the site to be live after initial deployment.

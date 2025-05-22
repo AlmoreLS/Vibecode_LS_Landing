@@ -72,13 +72,13 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on:
 - Enabling GitHub Pages
 - Accessing your live site
 
-**Repository:** https://github.com/almoretti/VibescoreBet_Landing
+**Repository:** https://github.com/AlmoreLS/Vibecode_LS_Landing
 
 **GitHub Pages Setup:**
 1. Go to repository Settings → Pages
 2. Source: Deploy from branch `main` / `/ (root)`
 3. Save and wait for deployment
-4. Site will be live at: `https://almoretti.github.io/VibescoreBet_Landing/`
+4. Site will be live at: `https://almorels.github.io/Vibecode_LS_Landing/`
 
 ## External Dependencies
 
