@@ -65,6 +65,19 @@ You can now modify:
 - **Behavior**: Update `assets/js/script.js`
 - **Images**: Replace files in `assets/img/`
 
+## Deployment to GitHub Pages
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on:
+- Creating GitHub repository
+- Enabling GitHub Pages
+- Accessing your live site
+
+**Quick Setup:**
+1. Create new GitHub repository: `livescorebet-landing-page`
+2. Push this code to the repository
+3. Enable GitHub Pages in repository Settings
+4. Site will be live at: `https://YOUR_USERNAME.github.io/livescorebet-landing-page/`
+
 ## External Dependencies
 
 The page still loads some external resources:
@@ -72,5 +85,6 @@ The page still loads some external resources:
 - jQuery, Popper.js, Bootstrap from CDN
 - Google Tag Manager
 - OneTrust cookie scripts
+- **Mida A/B Testing CDN**: `https://cdn.mida.so/js/optimize.js`
 
 These can be downloaded and made local if needed for complete offline functionality.
