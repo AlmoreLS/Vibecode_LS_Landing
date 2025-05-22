@@ -2,31 +2,11 @@
 
 ## GitHub Repository Setup
 
-### Option 1: Using GitHub CLI (if installed)
-```bash
-gh repo create livescorebet-landing-page --public --description "LiveScore Bet landing page with Mida A/B testing integration" --push
-```
+## ✅ Repository Already Created and Connected
 
-### Option 2: Manual GitHub Setup
-1. Go to [GitHub.com](https://github.com) and log in
-2. Click "New repository" or go to https://github.com/new
-3. Repository name: `vibescore-bet-landing-page`
-4. Description: `VibeScore Bet landing page with Mida A/B testing integration`
-5. Make it **Public**
-6. **DO NOT** initialize with README, .gitignore, or license (we already have these)
-7. Click "Create repository"
+**GitHub Repository:** https://github.com/almoretti/VibescoreBet_Landing
 
-### Push to GitHub
-After creating the repository, run these commands:
-
-```bash
-cd /Users/alessandro.moretti/Documents/CodingAI/Mida
-git remote add origin https://github.com/YOUR_USERNAME/vibescore-bet-landing-page.git
-git branch -M main
-git push -u origin main
-```
-
-Replace `YOUR_USERNAME` with your actual GitHub username.
+Your code has been successfully pushed to GitHub! The repository is already set up and connected.
 
 ## GitHub Pages Deployment
 
@@ -47,7 +27,7 @@ gh repo edit --enable-pages --pages-branch main --pages-path /
 
 After enabling GitHub Pages, your site will be available at:
 ```
-https://YOUR_USERNAME.github.io/vibescore-bet-landing-page/
+https://almoretti.github.io/VibescoreBet_Landing/
 ```
 
 It may take a few minutes for the site to be live after initial deployment.
