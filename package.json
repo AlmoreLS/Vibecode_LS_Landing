@@ -1,7 +1,7 @@
 {
-  "name": "livescorebet-landing-page",
+  "name": "vibescore-bet-landing-page",
   "version": "1.0.0",
-  "description": "Local copy of LiveScore Bet landing page",
+  "description": "VibeScore Bet landing page with Mida A/B testing",
   "main": "index.html",
   "scripts": {
     "start": "npx http-server -p 3000 -o",

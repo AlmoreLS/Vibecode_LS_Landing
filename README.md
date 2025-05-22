@@ -1,6 +1,6 @@
-# LiveScore Bet Landing Page - Local Copy
+# VibeScore Bet Landing Page - Local Copy
 
-This is a local copy of the LiveScore Bet landing page extracted from https://www.livescorebet.com/uk/promo/p/2024-B10G30-stadium/index.html
+This is a customized landing page based on LiveScore Bet design, now rebranded as VibeScore Bet with Mida A/B testing integration
 
 ## Structure
 
@@ -13,7 +13,7 @@ This is a local copy of the LiveScore Bet landing page extracted from https://ww
 │   │   ├── script.js       # Main JavaScript
 │   │   └── promoPageHelper.js
 │   └── img/
-│       ├── logo.svg        # LiveScore Bet logo
+│       ├── logo.svg        # VibeScore Bet logo
 │       ├── temp/
 │       │   └── stadium.webp # Hero image
 │       ├── icons/          # Feature icons
@@ -73,10 +73,10 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on:
 - Accessing your live site
 
 **Quick Setup:**
-1. Create new GitHub repository: `livescorebet-landing-page`
+1. Create new GitHub repository: `vibescore-bet-landing-page`
 2. Push this code to the repository
 3. Enable GitHub Pages in repository Settings
-4. Site will be live at: `https://YOUR_USERNAME.github.io/livescorebet-landing-page/`
+4. Site will be live at: `https://YOUR_USERNAME.github.io/vibescore-bet-landing-page/`
 
 ## External Dependencies
 

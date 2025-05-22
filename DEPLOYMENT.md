@@ -10,8 +10,8 @@ gh repo create livescorebet-landing-page --public --description "LiveScore Bet l
 ### Option 2: Manual GitHub Setup
 1. Go to [GitHub.com](https://github.com) and log in
 2. Click "New repository" or go to https://github.com/new
-3. Repository name: `livescorebet-landing-page`
-4. Description: `LiveScore Bet landing page with Mida A/B testing integration`
+3. Repository name: `vibescore-bet-landing-page`
+4. Description: `VibeScore Bet landing page with Mida A/B testing integration`
 5. Make it **Public**
 6. **DO NOT** initialize with README, .gitignore, or license (we already have these)
 7. Click "Create repository"
@@ -21,7 +21,7 @@ After creating the repository, run these commands:
 
 ```bash
 cd /Users/alessandro.moretti/Documents/CodingAI/Mida
-git remote add origin https://github.com/YOUR_USERNAME/livescorebet-landing-page.git
+git remote add origin https://github.com/YOUR_USERNAME/vibescore-bet-landing-page.git
 git branch -M main
 git push -u origin main
 ```
@@ -47,7 +47,7 @@ gh repo edit --enable-pages --pages-branch main --pages-path /
 
 After enabling GitHub Pages, your site will be available at:
 ```
-https://YOUR_USERNAME.github.io/livescorebet-landing-page/
+https://YOUR_USERNAME.github.io/vibescore-bet-landing-page/
 ```
 
 It may take a few minutes for the site to be live after initial deployment.
